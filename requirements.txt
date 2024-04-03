@@ -1,2 +1,5 @@
-flask~=3.0
+Flask~=3.0
 bootstrap-flask~=2.3
+Flask-minify~=0.4
+Flask-SQLAlchemy~=3.1
+alembic~=1.13
